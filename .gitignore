@@ -1,0 +1,12 @@
+# Local ICOON MONO assets and the local, image-containing editions
+assets/
+marp-master-template.md
+marp-master-template.pdf
+gpt-5.6-model-guide.md
+gpt-5.6-model-guide.pdf
+gpt56-claude-comparison-guide.md
+gpt56-claude-comparison-guide.pdf
+TEMPLATE-CATALOG.md
+
+# Local Finder metadata
+.DS_Store
