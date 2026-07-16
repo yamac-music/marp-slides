@@ -28,10 +28,6 @@
 npx @marp-team/marp-cli templates/marp-master-template.md --pdf
 ```
 
-## 公開時の扱い
-
-このリポジトリのファイルは、外部のアイコン画像を参照しません。`assets/` と、ICOON MONO画像を含むローカル編集版はGitHubへコミットしない設定です。
-
 ## 出典
 
 GPT-5.6の内容は、[OpenAI Model guidance](https://developers.openai.com/api/docs/guides/latest-model) および資料内に記載した公式情報を参照しています。モデル提供範囲・料金・利用上限は更新されるため、利用時には公式情報を再確認してください。
