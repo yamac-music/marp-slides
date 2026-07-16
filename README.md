@@ -5,7 +5,7 @@
 ## フォルダ構成
 
 | フォルダ | 内容 |
-| --- | --- | --- |
+| --- | --- |
 | [`templates/`](templates/) | 37種類のスライドテンプレート、テンプレート一覧、PDF |
 | [`sample-slides/`](sample-slides/) | GPT-5.6のモデル選び・Claude比較のサンプル、PDF |
 
